@@ -1,5 +1,8 @@
 _repo: Historical-Vignettes-2nd-Series_70685
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70685-h/images/cover.jpg
 creator:
   author:
     agent_name: Capes, Bernard
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5344
     wikipedia: https://en.wikipedia.org/wiki/Bernard_Capes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70685#Historical-Vignettes-2nd-Series
 gutenberg_issued: '2023-05-01'
 identifiers:
   gutenberg: '70685'
